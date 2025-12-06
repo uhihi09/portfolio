@@ -29,58 +29,58 @@ window.siteContent = {
                 suffix: " in BOJ"
             },
             {
-                label: "Python Instructor",
-                href: "#school",
-                suffix: " at DUCAMI"
+                label: "Computer Science Research Enthusiast",
+                href: "https://www.notion.so/2b9c0158a0cb802c82a5d50f06fd2d02?source=copy_link",
+                suffix: "( really love it )"
             }
         ]
     },
     projects: [
         {
-            title: "AMOS",
-            description: "Real-time Weather Monitoring System",
-            url: "https://github.com/wnghdcjfe/wnghdcjfe.github.io/blob/master/%EA%B8%B0%EC%83%81%EC%A0%95%EB%B3%B4%EC%A7%80%EC%9B%90%EC%B2%B4%EA%B3%84.md",
-            backgroundImage: "./imgs/amos.gif",
-            backgroundColor: "#0b2a3e",
+            title: "GrowMoney",
+            description: "An Educational Web for Building Basic Economic Knowledge",
+            url: "https://github.com/Team-Oh-Yes",
+            backgroundImage: "./imgs/GrowMoney.png",
+            backgroundColor: "#FFAC52",
             featured: true
         },
         {
-            title: "IU toon",
-            description: "Singer IU Song Serving Page",
-            url: "https://github.com/wnghdcjfe/IUtoon",
-            backgroundImage: "./imgs/iu.gif",
-            backgroundColor: "#ed1a44"
+            title: "Thesis",
+            description: "Machine Learning–Based Automatic Linux Scheduler Policy Selection System",
+            url: "https://www.notion.so/2b9c0158a0cb802c82a5d50f06fd2d02?source=copy_link",
+            backgroundImage: "./imgs/Schedular.png",
+            backgroundColor: "#131313"
         },
         {
-            title: "KNUE",
-            description: "University community web site",
+            title: "BaekJoon Online Judge",
+            description: "Learned About Algorithms and Data Structures",
             url: "https://github.com/wnghdcjfe/wnghdcjfe.github.io/blob/master/knue.md",
-            backgroundImage: "./imgs/knue.gif",
+            backgroundImage: "./imgs/BaekJoon.png",
             backgroundColor: "#000000"
         },
-        {
-            title: "Lucid Codeforce",
-            description: "A system that quickly finds answers to Codeforce.",
-            url: "https://lucidcode.herokuapp.com/#/",
-            backgroundImage: "./imgs/lucid.png",
-            backgroundColor: "#42b983",
-            extraClasses: ["project--mobile-auto-image"]
-        },
-        {
-            title: "Mocha.js",
-            description: "Javascript Test Framework",
-            url: "https://github.com/mochajs/mocha/graphs/contributors",
-            backgroundImage: "./imgs/mocha.png",
-            backgroundColor: "#a67d5d",
-            extraClasses: ["project--mobile-auto-image"]
-        },
-        {
-            title: "Solbang Notepad",
-            description: "Actor Chun Woo-hee's Notebook Page",
-            url: "https://github.com/wnghdcjfe/thousand_wooo_app",
-            backgroundImage: "./imgs/thou.gif",
-            backgroundColor: "#1faec8"
-        }
+        // {
+        //     title: "Lucid Codeforce",
+        //     description: "A system that quickly finds answers to Codeforce.",
+        //     url: "https://lucidcode.herokuapp.com/#/",
+        //     backgroundImage: "./imgs/lucid.png",
+        //     backgroundColor: "#42b983",
+        //     extraClasses: ["project--mobile-auto-image"]
+        // },
+        // {
+        //     title: "Mocha.js",
+        //     description: "Javascript Test Framework",
+        //     url: "https://github.com/mochajs/mocha/graphs/contributors",
+        //     backgroundImage: "./imgs/mocha.png",
+        //     backgroundColor: "#a67d5d",
+        //     extraClasses: ["project--mobile-auto-image"]
+        // },
+        // {
+        //     title: "Solbang Notepad",
+        //     description: "Actor Chun Woo-hee's Notebook Page",
+        //     url: "https://github.com/wnghdcjfe/thousand_wooo_app",
+        //     backgroundImage: "./imgs/thou.gif",
+        //     backgroundColor: "#1faec8"
+        // }
     ],
     about: {
         title: "About",
@@ -110,47 +110,12 @@ window.siteContent = {
         title: "Awards",
         items: [
             {
-                label: "2020 Kakao Development Challenge Front-End Challenges",
-                detail: "20.07 / Top 4% / Programmers / ",
-                links: [
-                    { href: "#", text: "overview" },
-                    { href: "https://programmers.co.kr", text: "programmers" }
-                ]
+                label: "2025 Daegu–Gwangju Dalbit Alliance SW Convergence Student Hackathon",
+                detail: "25.10.25 / Encouragement Prize / Daegu Institute for Creativity and Convergence Education",
             },
             {
-                label: "2019 Countributon – Mocha.js",
-                detail: "19.12.04 / Encouragement Prize / Ministry of Science and ICT",
-                suffix: " / Extra note",
-                stars: 1,
-                links: [
-                    { href: "https://github.com/mochajs/mocha/graphs/contributors", text: "contributors" }
-                ]
-            },
-            {
-                label: "citation (development of North Korean Artillery Weather Station)",
-                detail: "19.04.11 / defense Intelligence Headquarters",
-                stars: 3,
-                suffix: " / Defense Department"
-            },
-            {
-                label: "citation (development of AMOS)",
-                detail: "18.08.20 / Brigadier General",
-                stars: 1,
-                suffix: " / Weather Group of R.O.K Air Force"
-            },
-            {
-                label: "2nd place in SW development competition for military in South Korea",
-                detail: "17.01.24 / General",
-                stars: 4,
-                suffix: " / Defense Department"
-            },
-            {
-                label: "1st place in Startup Korea Gangwon Hackathon",
-                detail: "15.12.13 / 1st place / Gangwon Creative Economy Innovation Center"
-            },
-            {
-                label: "2nd place in the 2015 Korea Presentation Contest",
-                detail: "15.01.29 / 2nd place in university student category / G1 Gangwon"
+                label: "2025 School Software Hackathon",
+                detail: "25.07.16 / Encouragement Prize / Programmer",
             }
         ]
     },
