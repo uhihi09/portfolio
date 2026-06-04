@@ -54,7 +54,7 @@ window.siteContent = {
         {
             title: "BaekJoon Online Judge",
             description: "Learned About Algorithms and Data Structures",
-            url: "https://github.com/wnghdcjfe/wnghdcjfe.github.io/blob/master/knue.md",
+            url: "https://solved.ac/profile/uhihi",
             backgroundImage: "./imgs/BaekJoon.png",
             backgroundColor: "#000000"
         },
